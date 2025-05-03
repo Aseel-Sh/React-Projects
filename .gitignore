@@ -1,0 +1,28 @@
+# Node modules
+**/node_modules/
+
+# Build output
+**/build/
+**/dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Environment variables
+**/.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Coverage reports
+**/coverage/
+
+# Misc
+*.zip
+*.tgz
